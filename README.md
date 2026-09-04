@@ -10,11 +10,6 @@
 
 ## Roadmap
 
-### Лекции
-
-- [Web-приложения и web-протоколы](https://ktkv-presentations.github.io/uidev-1/)
-- ...
-
 ### Лабораторные
 
 > [!WARNING]  
@@ -22,42 +17,9 @@
 
 _Отработка выдается согласно посещаемости. Наличие у вас отработки можно посмотреть в лидерборде, если в колонке отработки вы помечены цветом_
 
-#### Bruno
+#### React
 
-- [Общая](https://github.com/32isr/up09-bruno)
-- [Лабораторная работа Bruno](https://github.com/32isr/up09-bruno)
-
-#### Render
-
-- [Общая](https://github.com/32isr/up09-render)
-- [Лабораторная Render](https://github.com/32isr/up09-render-lab)
-
-#### Express
-
-- [Общая](https://github.com/32isr/up09-express)
-- [Лабораторная работа Express](https://github.com/32isr/up09-express-lab)
-- [Лабораторная работа Own-Express](https://github.com/32isr/up09-own-express-lab)
-- [Отработка-работа Express-makeup](https://github.com/32isr/up09-express-makeup)
-
-#### Deploy
-
-- [Общая Deploy](https://github.com/32isr/up09-deploy)
-- [Общая Strapi](https://github.com/32isr/up09-strapi)
-- [Лабораторная работа Strapi](https://github.com/32isr/up09-strapi-lab)
-
-##### REST API
-
-- [Общая Laravel](https://github.com/32isr/up09-laravel)
-
-- [Лабораторная Laravel](https://github.com/32isr/up09-laravel-api-lab)
-
-##### Blade
-
-- [Шаблон Laravel](https://github.com/32isr/laravel-template)
-
-- [Лабораторная Laravel](https://github.com/32isr/up09-laravel-lab)
-
-- [Работа у кого нет автомата](https://github.com/32isr/up09-final-lab)
+- [Лабораторная React](https://github.com/42ISR/webdev-react-lab)
 
 ## Как выполнять задания
 
@@ -138,4 +100,6 @@ _Обратите внимание, что это делается в **ваше
 
 ## Документация/Полезное
 
-...
+- [Vite](https://vite.dev/)
+- [React](https://ru.react.js.org)
+- [MDN](https://developer.mozilla.org/ru/)
