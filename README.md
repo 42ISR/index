@@ -93,7 +93,15 @@ _Обратите внимание, что это делается в **ваше
 npm i -D gh-pages
 ```
 
-2. Укажите название репозитория в файле `vite.config.js`
+2. Поменяйте `basename` в `Browser Router`
+```jsx
+<BrowserRouter basename="/название_репозитория">
+    <App />
+</BrowserRouter>
+)
+```
+
+3. Укажите название репозитория в файле `vite.config.js`
 
 ```js
 import { defineConfig } from 'vite'
@@ -106,13 +114,13 @@ export default defineConfig({
 })
 ```
 
-3. Добавьте скрипт в `package.json`
+4. Добавьте скрипт в `package.json`
 
 ```json
 "deploy": "npm run build && npx gh-pages -d dist -f"
 ```
 
-4. Запустите скрипт
+5. Запустите скрипт
 
 ```bash
 npm run deploy
