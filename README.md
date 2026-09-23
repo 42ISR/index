@@ -93,7 +93,10 @@ _Обратите внимание, что это делается в **ваше
 npm i -D gh-pages
 ```
 
-2. Поменяйте `basename` в `Browser Router`
+2*. Поменяйте `basename` в `Browser Router`
+
+_Если в работе использовался `react-router-dom`_
+
 ```jsx
 <BrowserRouter basename="/название_репозитория">
     <App />
