@@ -98,7 +98,6 @@ npm i -D gh-pages
 <BrowserRouter basename="/название_репозитория">
     <App />
 </BrowserRouter>
-)
 ```
 
 3. Укажите название репозитория в файле `vite.config.js`
